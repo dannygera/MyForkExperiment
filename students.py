@@ -8,6 +8,7 @@ contacts = {
             {'name':'marlon', 'email': 'marlon@voorbeeld.com'},
             {'name':'quinty', 'email': 'quity@voorbeeld.com'}
             {'name':'lars', 'email': 'lars@voorbeeld.com'}
+            {'name':'Fred', 'email': 'fred@voorbeeld.com'}
         ]
 }
 
